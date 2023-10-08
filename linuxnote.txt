@@ -1,0 +1,11 @@
+linux在线模拟https://www.masswerk.at/jsuix/index.html
+一般命令
+  clear 清屏
+  man 帮助
+  ls 列出当前目录内容
+  reboot 重启；shutdown -r /init 6 管理员重启
+  logout 注销
+  halt 关机；shutdown -h/init 0 管理员关机
+  pwd 当前路径显示
+  / 根
+
