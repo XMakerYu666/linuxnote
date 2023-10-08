@@ -9,3 +9,7 @@ linux在线模拟https://www.masswerk.at/jsuix/index.html
   pwd 当前路径显示
   / 根
 
+  ls -c 多列详细信息列出显示
+  ls -l 单列列出显示
+  ls -a 列出所有文件
+  ls -m 逗号隔开列出显示
