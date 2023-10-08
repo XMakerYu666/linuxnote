@@ -16,4 +16,9 @@ linux在线模拟https://www.masswerk.at/jsuix/index.html
   ls -a 列出所有文件
   ls -m 逗号隔开列出显示
 
-  cd 
+  文件操作
+  touch [选项] [文件名]新建文件；-a修改文件访问时间；
+  stat [文件名] 文件详细信息
+  rm   删除
+  mv  修改
+  ls 查看
