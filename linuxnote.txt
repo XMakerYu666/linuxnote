@@ -1,5 +1,7 @@
 linux在线模拟https://www.masswerk.at/jsuix/index.html
 一般命令
+  su 切换到管理员账号
+  exit 退出账户
   clear 清屏
   man 帮助
   ls 列出当前目录内容
@@ -13,3 +15,5 @@ linux在线模拟https://www.masswerk.at/jsuix/index.html
   ls -l 单列列出显示
   ls -a 列出所有文件
   ls -m 逗号隔开列出显示
+
+  cd 
